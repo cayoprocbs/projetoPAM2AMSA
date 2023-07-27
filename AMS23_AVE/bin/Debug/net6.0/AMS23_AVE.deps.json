@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AMS23_AVE/1.0.0": {
+        "runtime": {
+          "AMS23_AVE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AMS23_AVE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

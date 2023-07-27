@@ -1,0 +1,15 @@
+D:\AMS23_AVE\obj\Debug\net6.0\AMS23_AVE.csproj.AssemblyReference.cache
+D:\AMS23_AVE\obj\Debug\net6.0\AMS23_AVE.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMS23_AVE\obj\Debug\net6.0\AMS23_AVE.AssemblyInfoInputs.cache
+D:\AMS23_AVE\obj\Debug\net6.0\AMS23_AVE.AssemblyInfo.cs
+D:\AMS23_AVE\obj\Debug\net6.0\AMS23_AVE.csproj.CoreCompileInputs.cache
+D:\AMS23_AVE\bin\Debug\net6.0\AMS23_AVE.exe
+D:\AMS23_AVE\bin\Debug\net6.0\AMS23_AVE.deps.json
+D:\AMS23_AVE\bin\Debug\net6.0\AMS23_AVE.runtimeconfig.json
+D:\AMS23_AVE\bin\Debug\net6.0\AMS23_AVE.dll
+D:\AMS23_AVE\bin\Debug\net6.0\AMS23_AVE.pdb
+D:\AMS23_AVE\obj\Debug\net6.0\AMS23_AVE.dll
+D:\AMS23_AVE\obj\Debug\net6.0\refint\AMS23_AVE.dll
+D:\AMS23_AVE\obj\Debug\net6.0\AMS23_AVE.pdb
+D:\AMS23_AVE\obj\Debug\net6.0\AMS23_AVE.genruntimeconfig.cache
+D:\AMS23_AVE\obj\Debug\net6.0\ref\AMS23_AVE.dll
